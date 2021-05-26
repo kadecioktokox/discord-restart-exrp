@@ -5,6 +5,6 @@ description 'Automatyczna informacja o starcie serwera by kadeciok#1234'
 client_script {
 }
 server_scripts {
-	'server.lua',
+	'Server.lua',
 }
 
